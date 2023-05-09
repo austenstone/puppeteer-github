@@ -1,23 +1,6 @@
-# TypeScript Node Template
+# Puppeteer use with GitHub
 
-Template for creating a TypeScript Node.js project.
+> **Warning**
+> **This is a hack. GitHub does not intend for you to automate some tasks. Do not abuse this automation!** 
 
-## 🔨 Build
-```
-npm run build
-```
-
-## 🧪 Test
-```
-npm test
-```
-
-## 🏃 Run
-```
-npm start
-```
-
-## 🧹 Lint 
-```
-npm lint
-```
+This is a simple example of how to use Puppeteer with GitHub.
